@@ -2,7 +2,7 @@
 <p>Sign up to Receive Newsletters and Updates</p>
  <label for="Agree">Agree</label><br>
  <input type="checkbox" name="Agree" id="Agree" value="Agree"><br>
- <input value="Submit" value="Submit"><br><br>
+ <Button type="submit">Submit</Button></form><br><br>
  <p>Gender</p><br>
  <label for="Male">Male</label>
  <input type="radio" id="Male" name="Gender" value="Male"><br>
