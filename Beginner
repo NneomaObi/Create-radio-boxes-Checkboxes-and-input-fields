@@ -1,0 +1,15 @@
+<form>
+<p>Sign up to Receive Newsletters and Updates</p>
+ <label for="Agree">Agree</label><br>
+ <input type="checkbox" name="Agree" id="Agree" value="Agree"><br>
+ <input value="Submit" value="Submit"><br><br>
+ <p>Gender</p><br>
+ <label for="Male">Male</label>
+ <input type="radio" id="Male" name="Gender" value="Male"><br>
+ <label for="Female">Female</label>
+ <input type="radio" name="Gender" id="Female value="Female"><br>
+ <label for="Other">Other</label>
+ <input type="radio" name="Gender" id="Other" value="Other"><br>
+ <label for="Favourite City">Favourite City</label>
+ <input name="Favourite City" id="Favourite City">
+</form>
